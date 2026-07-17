@@ -5,15 +5,15 @@ A growing collection of custom Stream Deck icons designed for racing simulators 
 Built with a consistent dashboard-inspired aesthetic featuring high contrast graphics, clean typography, and easy recognition while driving.
 
 ## Current Release
-# v0.8
+# v0.81
 
 ---
 
 ## Statistics
 
-- **52 Total Icons**
-- **23 Racing Icons**
-- **29 American Truck Simulator Icons**
+- **55 Total Icons**
+- **47 Button Icons**
+- **8 Rotary Knob Backgrounds**
 - Continuing development
 
 ---
@@ -40,15 +40,6 @@ Includes controls such as:
 - Multi-Function Display Rotary
 - H-Pattern Shifter
 - and additional motorsport dashboard controls
-
----
-
-## American Truck Simulator Collection (29)
-
-Purpose-built for ATS using the same visual style.
-
-Current icons include:
-
 - Engine Start
 - Parking Brake
 - Headlights
@@ -76,22 +67,6 @@ Current icons include:
 
 ---
 
-## Design Philosophy
-
-The objective is to create icons that resemble OEM dashboard controls rather than generic game artwork.
-
-Features include:
-
-- High contrast
-- Dashboard-inspired layout
-- Uniform spacing
-- Clean vector appearance
-- Readable labels
-- Consistent lighting and styling
-- Optimized for Elgato Stream Deck
-
----
-
 # v0.8 Release Notes
 
 ## New ATS Icons
@@ -107,21 +82,3 @@ Features include:
 - Trailer Attach / Detach
 - Landing Gear
 
-## Improvements
-
-- Expanded ATS collection to 29 dedicated icons.
-- Improved consistency between rotary controls and standard button icons.
-- Continued refinement of typography, spacing, and dashboard styling.
-- Maintained a unified visual language across both ATS and racing collections.
-
----
-
-## Current Progress
-
-🏁 Racing Collection: **23 Icons**
-
-🚛 ATS Collection: **29 Icons**
-
-**Total Collection:** **52 Icons**
-
-More icons and control sets will continue to be added in future releases.
