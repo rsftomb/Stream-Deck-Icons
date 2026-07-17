@@ -18,9 +18,7 @@ Built with a consistent dashboard-inspired aesthetic featuring high contrast gra
 
 ---
 
-## Racing Collection (23)
-
-Designed for GT3, IMSA, endurance racing and motorsport simulators.
+## Designed for GT3, IMSA, endurance racing and motorsport simulators.
 
 Includes controls such as:
 
