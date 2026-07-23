@@ -7,8 +7,7 @@ Built with a consistent dashboard-inspired aesthetic featuring high contrast gra
 ## Current Release
 # v0.81
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/344jos3" data-context="false" ><a href="//imgur.com/a/344jos3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![ATS & Racing Stream Deck Icons](https://i.imgur.com/oNjvMVS.png)
 ---
 
 ## Statistics
