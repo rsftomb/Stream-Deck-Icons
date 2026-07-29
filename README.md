@@ -5,7 +5,7 @@ A growing collection of custom Stream Deck icons designed for racing simulators 
 Built with a consistent dashboard-inspired aesthetic featuring high contrast graphics, clean typography, and easy recognition while driving.
 
 ## Current Release
-# v0.81
+# v0.83 (7/29/26)
 
 ![ATS & Racing Stream Deck Icons](https://i.imgur.com/oNjvMVS.png)
 ---
